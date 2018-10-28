@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name":"Jason L Moody",
+    "occupation":"DevOps Practitioner | Open Source Enthusiast | Aspiring Programmer",
+    "description":"I like building things, exploring ideas and places but most of all creating relationships that expand on both of these.",
+    "image":"profilepic.jpg",
+    "bio":"Insightful, well rounded and results driven technology professional with notable success in a broad range of high visibility enterprise initiatives and ground floor velocity driven startups. Participating in planning, analysis of solutions and implementation in support of business objectives, lending creativity and formative best practices. Specializing in server-side computing, virtualization, high availability infrastructure and security — Cloud Computing.",
+    "things":"Virtualization, Programming Languages, TCP/IP, Programable Infrastructure, High Velocity Software Development",
+    "technologies":"Linux, Ruby, Python, Terraform, Packer, Elasticsearch, Logstash, Kibana, Beats, GraphQL, NginX, Jenkins",  
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jason.l.moody@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Austin",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://jasonlmoody.com",
+    "resumedownload":"https://jasonlmoody.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jasonleemoody",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/jason_l_moody?lang=en",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jasonlmoody/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jason.l.moody/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jlmoody",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:jason.l.moody+website@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"phone",
+        "url":"tel:5129533274",
+        "className":"fa fa-phone"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+
+    ],
+    "work":[
+      {
+        "company":"Peddle.com",
+        "title":"DevOps Lead",
+        "years":"2018 - Present",
+        "description":""
+      },
+      {
+        "company":"Rivet Works Inc.",
+        "title":"DevOps Lead",
+        "years":"2013 - 2018",
+        "description":""
+      },
+      {
+        "company":"Marketvine by Dell",
+        "title":"DevOps Lead",
+        "years":"2011 - 2013",
+        "description":""
+      },
+      {
+        "company":"Global Industries",
+        "title":"Senior Systems Analyst",
+        "years":"2010 - 2011",
+        "description":""
+      },
+      {
+        "company":"ConocoPhillips",
+        "title":"Senior Systems Analyst",
+        "years":"2001 - 2009",
+        "description":""
+      },
+      {
+        "company":"US Liquids",
+        "title":"Network Administrator",
+        "years":"1998 - 2001",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Your Estate Online",
+        "category":"",
+        "image":"yourestateonline.jpg",
+        "url":"http://yourestate.online"
+      },
+      {
+        "title":"The Era I Owe",
+        "category":"",
+        "image":"theeraio.jpg",
+        "url":"http://theera.io"
+      },
+      {
+        "title":"Jason L Moody",
+        "category":"",
+        "image":"jasonlmoody.jpg",
+        "url":"https://jasonlmoody.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
