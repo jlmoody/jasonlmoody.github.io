@@ -133,6 +133,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"512 Tattoo",
+        "category":"",
+        "image":"512tattoo.jpg",
+        "url":"http://512tattoo.github.io"
+      },
+      {
         "title":"Your Estate Online",
         "category":"",
         "image":"yourestateonline.jpg",
